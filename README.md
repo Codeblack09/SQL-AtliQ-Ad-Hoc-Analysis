@@ -5,15 +5,15 @@ This repository contains a collection of SQL queries developed for analyzing var
 ## Summary of Requests
 
 1. Markets for Atliq Exclusive (APAC) [Solution 1](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_01_market_list.sql)
-2. Unique Product Growth (2021 vs 2020)
-3. Product Count by Segment
-4. Segment-wise Growth in Unique Products
-5. Cost Extremes
-6. Top Customers by Discount (India, 2021)
-7. Monthly Gross Sales for Atliq Exclusive
-8. Best Performing Quarter in 2020
-9. Top Channel by Sales in 2021
-10. Top Products by Division (2021)
+2. Unique Product Growth (2021 vs 2020) [Solution 2](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_02_product_growth.sql)
+3. Product Count by Segment [Solution 3](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_03_segment_product_count.sql)
+4. Segment-wise Growth in Unique Products [Solution 4](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_04_segment_growth.sql)
+5. Cost Extremes [Solution 5](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_05_cost_extremes.sql)
+6. Top Customers by Discount (India, 2021) [Solution 6](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_06_top_discount_customers.sql)
+7. Monthly Gross Sales for Atliq Exclusive [Solution 7](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_07_monthly_sales_report.sql)
+8. Best Performing Quarter in 2020 [Solution 8](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_08_quarterly_sales.sql)
+9. Top Channel by Sales in 2021 [Solution 9](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_09_channel_sales.sql)
+10. Top Products by Division (2021) [Solution 10](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_10_top_products_by_division.sql)
 
 ## Technologies
 
