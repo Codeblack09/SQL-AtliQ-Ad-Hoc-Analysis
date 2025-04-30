@@ -4,7 +4,7 @@ This repository contains a collection of SQL queries developed for analyzing var
 
 ## Summary of Requests
 
-1. Markets for Atliq Exclusive (APAC)
+1. Markets for Atliq Exclusive (APAC) [Solution 1](https://github.com/Codeblack09/SQL-AtliQ-Ad-Hoc-Analysis/blob/main/request_01_market_list.sql)
 2. Unique Product Growth (2021 vs 2020)
 3. Product Count by Segment
 4. Segment-wise Growth in Unique Products
